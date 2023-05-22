@@ -7,7 +7,7 @@ Blender plugin to fix actions after roll changes to the bones.
 
 ## Installation
 
-1. Download the plugin from https://github.com/spliter88/mikanim_action_roll_fix
+1. Download the plugin from https://github.com/spliter88/mikanim_action_roll_fix/releases/download/V1.0/mikanim_action_roll_fix.zip
 2. In Blender, go to Edit -> Preferences -> Add-ons.
 3. Click the "Install" button and navigate to the downloaded plugin file.
 4. Enable the plugin by ticking the checkbox next to it.
